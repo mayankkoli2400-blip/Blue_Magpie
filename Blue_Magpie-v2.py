@@ -584,4 +584,5 @@ if __name__ == "__main__":
         main()
     except KeyboardInterrupt:
         print(f"\n{colors.white}Exiting...")
+
         sys.exit(0)
